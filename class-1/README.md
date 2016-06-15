@@ -17,6 +17,9 @@
 	* Functions
 	* Closures
 	* Optionals
+  * Arrays
+  * Dictionaries
+  * Sets
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)

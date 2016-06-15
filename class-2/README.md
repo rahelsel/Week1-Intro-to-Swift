@@ -10,10 +10,10 @@
 
 ###Reading Assignment
 * Swift Programming Guide
-  * Arrays
-  * Dictionaries
-  * Sets
-
+  * Structures
+  * Classes
+  * Protocols
+  * Protocol-oriented Programming
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)

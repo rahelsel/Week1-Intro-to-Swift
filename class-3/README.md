@@ -10,10 +10,13 @@
 
 ###Reading Assignment
 * Swift Programming Guide
-  * Structures
-  * Classes
-  * Protocols
-  * Protocol-oriented Programming
+  * Enums
+  * Properties
+  * Methods
+  * Error Handling
+  * Generics
+  * [Functional Programming](https://www.raywenderlich.com/82599/swift-functional-programming-tutorial)
+  * [Protocol Oriented Programming](https://developer.apple.com/videos/play/wwdc2015/408/)
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
