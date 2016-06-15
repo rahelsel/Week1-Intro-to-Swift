@@ -5,7 +5,7 @@
 * Write a function that take in a string, and returns a message: “String contains n characters”
 * Write a function that takes in a string and reverses it. Use a simple for loop
 * **Bonus:**
-  * Declare a variable that’s function. Implement function to take in a string (name) and return greeting message.
+  * Declare a variable that is function. Implement function to take in a string (name) and return greeting message.
 
 ###Reading Assignment
 * Swift Programming Guide
