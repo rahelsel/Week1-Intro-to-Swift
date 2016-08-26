@@ -1,11 +1,10 @@
 #Week 1 - Class 3
 ##Lab Assignment
 * Using Playgrounds…
-  * Declare Identity protocol with id function
-  * Declare a ToDo class that conforms to Identity protocol… Define your own model scheme (variable it contains, etc)
+  * Declare Identity protocol with id String
+  * Declare a ToDo class that has a text member of type String, and conforms to Identity protocol
   * Define ObjectStore protocol with these functions: add:, remove:, objectAtIndex:, count, allObjects.
-  * Extend ObjectStore protocol to provide basic implementation for functions
-  * Create Store singleton that will conform to ObjectStore protocol and implement requirements
+  * Create Store class that will conform to ObjectStore protocol and implement required methods
   * Demonstrate adding / removing of ToDo items.
 
 ###Reading Assignment
