@@ -1,12 +1,10 @@
 #Week 1 - Class 2
 ##Lab Assignment
-* Write a function that takes in an array of strings, checks if array contains “Earth”, if not, adds it otherwise returns
-* Use **reduce** to create single string from the above array. [“Venus”, “Earth”] would produce “Venus, Earth”
-* Declare and implement a dictionary that can contain as values Strings, Ints, etc
-* Declare a dictionary of string values. Declare a function that takes in a string and searches dictionary for it. Use **filter**
-* Write examples for **union, intersect, subtract, exclusive** Or set operations
-* Write a function that counts repeating words and prints out the count of each
-* Add two numbers without using “+”
+* Write a function that takes in an array of planet names as strings, checks if array contains “Earth”. If it does not, add it. Otherwise, do nothing.
+* Using **sort** and **reduce**, create string from the above array sorted alphabetically. **Example Output:** [“Venus”, “Earth”] would produce “Earth Venus” 
+* Declare a dictionary of string keys and values. Declare a function that takes in a string and searches dictionary for it as a value.
+* Write a function that counts repeating words in an array of strings, and prints out the count of each
+* Add two numbers without using `+`. The only exception is you may use `+= 1`, but it can be done without this!
 
 ###Reading Assignment
 * Swift Programming Guide
