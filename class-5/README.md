@@ -1,9 +1,7 @@
 #Week 1 - Class 5
 
-###Coding Challenges(Not Graded)
-* Give an array of million words, write a function to return all palindromes.
-* Write a function to return three highest numbers from an array of Integers.
-* Stretch Goal: Write a generic function for the above challenge (highest numbers).
+##Data Structure and Whiteboarding  
+Stacks and Queues
 
 ###Reading Assignment:
 * General Concepts:

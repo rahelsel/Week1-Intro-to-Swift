@@ -1,20 +1,16 @@
 #Week 1 - Class 4
 ##Homework
-* Download starter project; create individual files for each class / protocol you created yesterday
-* In HomeViewController find `tableView:numberOfRowsInSection:` function and return using `Store` return number of objects it should display
-* In HomeViewController find `configureCell:` implement it by first getting an object from `Store` for `indexPath.row` and set the `cell.textLabel.text` to item.itemDescription
-* In HomeViewController find `tableView:commitEditingStyle…` Use `Store` to remove object for `indexPath.row`
-* In NewItemViewController find `saveButtonSelected:` function and create item using description variable. Add the item to the `Store`
-* Add save function to `ObjectStoreProtocol`. Provide default implementation for simply writing array of objects to the filesystem
-* **Bonus**:
-  * Create Additions file and extend String and NSURL. String: archivePath -> String; NSURL: documentsDirectory -> NSURL and archiveURL -> NSURL
-  * Conform your Model class to `NSCoding` protocol and implement required methods
-  * Modify Store `init {}` method to unarchive first. If `nil,` initialize objects array
-  * Test your app
+* Using Playgrounds…
+  * Declare Enum that conforms to `Error`. Your enum should have at least 5 cases and should use Associated Values.
+  * Declare a `Person` class with 3 member properties. Declare a `Student` subclass that inherits from Person.
+    * Both Your Student and Person class should have a variety of meaningful Type and Instance Methods. Be creative.
+    * In either of these 2 classes, demonstrate a computed property and implement a property observer.
+  * Create a `Classroom` class that is a true singleton and has an array of Students.
+    * Add *accessor methods* to `Classroom` to add and remove from the array.
 
 ###Reading Assignment
-* Cracking the coding Interview/Programming Interviews Exposed:
-  * Arrays and Strings
+* Cracking the Coding Interview/Programming Interviews Exposed:
+  * Stacks and Queues
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)

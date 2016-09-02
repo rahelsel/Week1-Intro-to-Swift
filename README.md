@@ -1,10 +1,10 @@
-#Week 1: ToDo List
+#Week 1
 
 ##Overview
-> Students will be building A To-Do List application for this week’s project. This project is intended to allow students to get comfortable with Xcode’s development environment and acts as a starting point for learning the basic and advanced features of the Swift programming language.
+> This week is intended to allow students to get comfortable with Xcode’s development environment and acts as a starting point for learning the basic and advanced features of the Swift programming language.
 
 ##Week 1 Learning Objectives
-> Utilizing Playgrounds and Storyboards, students will begin to understand the basic, as well as some advanced, concepts of the Swift Programming language in order to create their first iOS application.
+> Utilizing Playgrounds, students will begin to understand the basic, as well as some advanced, concepts of the Swift Programming language in order to prepare for creating their first iOS application.
 
 
 ##Daily Breakdown
