@@ -6,8 +6,8 @@
   * Define ObjectStore protocol with these functions: add:, remove:, objectAtIndex:, count, allObjects.
   * Create Store class that will conform to ObjectStore protocol and implement required methods
   * Demonstrate adding / removing of ToDo items.
-
-###Reading Assignment
+  ----
+##Reading Assignment:
 * Swift Programming Guide
   * Enums
   * Properties

@@ -7,7 +7,7 @@
     * In either of these 2 classes, demonstrate a computed property and implement a property observer.
   * Create a `Classroom` class that is a true singleton and has an array of Students.
     * Add *accessor methods* to `Classroom` to add and remove from the array.
-
+----
 ##Reading Assignment:
 * Cracking the Coding Interview/Programming Interviews Exposed:
   * Stacks and Queues

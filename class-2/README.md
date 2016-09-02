@@ -6,7 +6,8 @@
 * Write a function that counts repeating words in an array of strings, and prints out the count of each
 * Add two numbers without using `+`. The only exception is you may use `+= 1`, but it can be done without this!
 
-###Reading Assignment
+----
+##Reading Assignment:
 * Swift Programming Guide
   * Structures
   * Classes
