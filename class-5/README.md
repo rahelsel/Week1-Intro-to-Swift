@@ -1,7 +1,7 @@
 #Week 1 - Class 5
 
 ##Data Structure and Whiteboarding  
-Stacks and Queues
+####Stacks and Queues
 
 ###Reading Assignment:
 * General Concepts:
