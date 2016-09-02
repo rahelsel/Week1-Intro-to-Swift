@@ -5,7 +5,7 @@ Create a Playground including the following:
 * Write a function that takes in a tuple (Int, Int) and returns the sum of the 2 values as Int
 * Write a function that take in a string, and returns a message: “String contains n characters”
 * Write a function that takes in a string and reverses it. Use a simple for loop
-----
+
 ##Reading Assignment:
 * Swift Programming Guide
 	* Variables & Constants
