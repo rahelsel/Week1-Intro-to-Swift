@@ -3,7 +3,7 @@
 ##Data Structure and Whiteboarding  
 ####Stacks and Queues
 
-###Reading Assignment:
+##Reading Assignment:
 * General Concepts:
   * [MVC](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
 * Apple Documentation:

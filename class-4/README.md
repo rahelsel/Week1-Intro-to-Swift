@@ -8,7 +8,7 @@
   * Create a `Classroom` class that is a true singleton and has an array of Students.
     * Add *accessor methods* to `Classroom` to add and remove from the array.
 
-###Reading Assignment
+##Reading Assignment:
 * Cracking the Coding Interview/Programming Interviews Exposed:
   * Stacks and Queues
 
