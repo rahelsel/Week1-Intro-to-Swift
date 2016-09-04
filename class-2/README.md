@@ -4,7 +4,6 @@
 * Using **sort** and **reduce**, create string from the above array sorted alphabetically. **Example Output:** [“Venus”, “Earth”] would produce “Earth Venus” 
 * Declare a dictionary of string keys and values. Declare a function that takes in a string and searches dictionary for it as a value.
 * Write a function that counts repeating words in an array of strings, and prints out the count of each
-* Add two numbers without using `+`. The only exception is you may use `+= 1`, but it can be done without this!
 
 ##Reading Assignment:
 * Swift Programming Guide
