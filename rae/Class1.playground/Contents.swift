@@ -28,8 +28,48 @@ let addTuple: (Int, Int) -> () = {(numberOne, numberTwo) in
 
 addTuple(2, 4)
 
+func takeIn(myTuple:(a: Int,b: Int)) -> Int{
 
-let myString : String = "\(number)"
+}
+
+
+let myString : String = "\()"
 func printStringMsg(myString: String) -> String {
     print("This string has \(myString.characters.count) characters")
 }
+
+func reverse(string: String) -> String{
+    
+    var result = ""
+    
+    for character in string.characters {
+        
+        result = String(character) + result
+        
+        print(character)
+    }
+    return result
+}
+reverse(string: "Adam")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
